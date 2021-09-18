@@ -15,7 +15,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private Button mBtnRequestPermission;
-    private static final int REQUEST_CODE = 0;
+    private static final int REQUEST_CODE = 00;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
